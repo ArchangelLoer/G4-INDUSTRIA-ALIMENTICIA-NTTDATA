@@ -58,13 +58,14 @@ A solução foi estruturada da seguinte forma:
 
 ## 🗂️ Estrutura do Repositório
 
-```
+``
 📁 raiz/
  ├── bronze/
  ├── silver/
  ├── gold/
  ├── dashboards/   # <- espaço reservado para inserir os gráficos
- └── README.md```
+ └── README.md
+ ``
 
 ---
 
@@ -97,14 +98,6 @@ Entrega da camada Gold integrada com dados tratados e relacionáveis.
 
 ---
 
-## 📈 Dashboards
-
-O painel de dashboards pode ser acessado aqui:
-[Dashboards](<link aqui>)
-
-![Print do Dashboard no Databricks](caminho/para/sua/imagem_do_dashboard.png)
-
----
 
 ## 👥 Equipe – Quem Fez o Quê
 
